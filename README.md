@@ -1,1 +1,2 @@
-# whyjq
+whyjq是一款基于jQuery的UI组件库
+。感谢使用！
